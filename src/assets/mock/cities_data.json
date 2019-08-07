@@ -1,0 +1,269 @@
+{
+  "_embedded": {
+    "city:search-results": [
+      {
+        "_links": {
+          "city:item": {
+            "href": "https://api.teleport.org/api/cities/geonameid:1796236/"
+          }
+        },
+        "matching_alternate_names": [],
+        "matching_full_name": "Shanghai, Shanghai, China"
+      },
+      {
+        "_links": {
+          "city:item": {
+            "href": "https://api.teleport.org/api/cities/geonameid:745044/"
+          }
+        },
+        "matching_alternate_names": [],
+        "matching_full_name": "Istanbul, Istanbul, Turkey"
+      },
+      {
+        "_links": {
+          "city:item": {
+            "href": "https://api.teleport.org/api/cities/geonameid:3435910/"
+          }
+        },
+        "matching_alternate_names": [],
+        "matching_full_name": "Buenos Aires, Buenos Aires F.D., Argentina"
+      },
+      {
+        "_links": {
+          "city:item": {
+            "href": "https://api.teleport.org/api/cities/geonameid:1275339/"
+          }
+        },
+        "matching_alternate_names": [],
+        "matching_full_name": "Mumbai, Maharashtra, India"
+      },
+      {
+        "_links": {
+          "city:item": {
+            "href": "https://api.teleport.org/api/cities/geonameid:3530597/"
+          }
+        },
+        "matching_alternate_names": [],
+        "matching_full_name": "Mexico City, Mexico City, Mexico"
+      },
+      {
+        "_links": {
+          "city:item": {
+            "href": "https://api.teleport.org/api/cities/geonameid:1816670/"
+          }
+        },
+        "matching_alternate_names": [],
+        "matching_full_name": "Beijing, Beijing, China"
+      },
+      {
+        "_links": {
+          "city:item": {
+            "href": "https://api.teleport.org/api/cities/geonameid:1174872/"
+          }
+        },
+        "matching_alternate_names": [],
+        "matching_full_name": "Karachi, Sindh, Pakistan"
+      },
+      {
+        "_links": {
+          "city:item": {
+            "href": "https://api.teleport.org/api/cities/geonameid:1792947/"
+          }
+        },
+        "matching_alternate_names": [],
+        "matching_full_name": "Tianjin, Tianjin, China"
+      },
+      {
+        "_links": {
+          "city:item": {
+            "href": "https://api.teleport.org/api/cities/geonameid:1809858/"
+          }
+        },
+        "matching_alternate_names": [],
+        "matching_full_name": "Guangzhou, Guangdong, China"
+      },
+      {
+        "_links": {
+          "city:item": {
+            "href": "https://api.teleport.org/api/cities/geonameid:1273294/"
+          }
+        },
+        "matching_alternate_names": [],
+        "matching_full_name": "Delhi, NCT, India"
+      },
+      {
+        "_links": {
+          "city:item": {
+            "href": "https://api.teleport.org/api/cities/geonameid:524901/"
+          }
+        },
+        "matching_alternate_names": [],
+        "matching_full_name": "Moscow, Moscow, Russia"
+      },
+      {
+        "_links": {
+          "city:item": {
+            "href": "https://api.teleport.org/api/cities/geonameid:1795565/"
+          }
+        },
+        "matching_alternate_names": [],
+        "matching_full_name": "Shenzhen, Guangdong, China"
+      },
+      {
+        "_links": {
+          "city:item": {
+            "href": "https://api.teleport.org/api/cities/geonameid:1185241/"
+          }
+        },
+        "matching_alternate_names": [],
+        "matching_full_name": "Dhaka, Dhaka, Bangladesh"
+      },
+      {
+        "_links": {
+          "city:item": {
+            "href": "https://api.teleport.org/api/cities/geonameid:1835848/"
+          }
+        },
+        "matching_alternate_names": [],
+        "matching_full_name": "Seoul, Seoul, South Korea"
+      },
+      {
+        "_links": {
+          "city:item": {
+            "href": "https://api.teleport.org/api/cities/geonameid:3448439/"
+          }
+        },
+        "matching_alternate_names": [],
+        "matching_full_name": "São Paulo, São Paulo, Brazil"
+      },
+      {
+        "_links": {
+          "city:item": {
+            "href": "https://api.teleport.org/api/cities/geonameid:1791247/"
+          }
+        },
+        "matching_alternate_names": [],
+        "matching_full_name": "Wuhan, Hubei, China"
+      },
+      {
+        "_links": {
+          "city:item": {
+            "href": "https://api.teleport.org/api/cities/geonameid:2332459/"
+          }
+        },
+        "matching_alternate_names": [],
+        "matching_full_name": "Lagos, Lagos, Nigeria"
+      },
+      {
+        "_links": {
+          "city:item": {
+            "href": "https://api.teleport.org/api/cities/geonameid:1642911/"
+          }
+        },
+        "matching_alternate_names": [],
+        "matching_full_name": "Jakarta, Jakarta, Indonesia"
+      },
+      {
+        "_links": {
+          "city:item": {
+            "href": "https://api.teleport.org/api/cities/geonameid:1850147/"
+          }
+        },
+        "matching_alternate_names": [],
+        "matching_full_name": "Tokyo, Tokyo, Japan"
+      },
+      {
+        "_links": {
+          "city:item": {
+            "href": "https://api.teleport.org/api/cities/geonameid:5128581/"
+          }
+        },
+        "matching_alternate_names": [],
+        "matching_full_name": "New York City, New York, United States"
+      },
+      {
+        "_links": {
+          "city:item": {
+            "href": "https://api.teleport.org/api/cities/geonameid:1812545/"
+          }
+        },
+        "matching_alternate_names": [],
+        "matching_full_name": "Dongguan, Guangdong, China"
+      },
+      {
+        "_links": {
+          "city:item": {
+            "href": "https://api.teleport.org/api/cities/geonameid:1668341/"
+          }
+        },
+        "matching_alternate_names": [],
+        "matching_full_name": "Taipei, Taiwan, Taiwan"
+      },
+      {
+        "_links": {
+          "city:item": {
+            "href": "https://api.teleport.org/api/cities/geonameid:2314302/"
+          }
+        },
+        "matching_alternate_names": [],
+        "matching_full_name": "Kinshasa, Kinshasa, Democratic Republic of the Congo"
+      },
+      {
+        "_links": {
+          "city:item": {
+            "href": "https://api.teleport.org/api/cities/geonameid:3936456/"
+          }
+        },
+        "matching_alternate_names": [],
+        "matching_full_name": "Lima, Lima, Peru"
+      },
+      {
+        "_links": {
+          "city:item": {
+            "href": "https://api.teleport.org/api/cities/geonameid:360630/"
+          }
+        },
+        "matching_alternate_names": [],
+        "matching_full_name": "Cairo, Cairo, Egypt"
+      }
+    ]
+  },
+  "_links": {
+    "curies": [
+      {
+        "href": "https://developers.teleport.org/api/resources/Location/#!/relations/{rel}/",
+        "name": "location",
+        "templated": true
+      },
+      {
+        "href": "https://developers.teleport.org/api/resources/City/#!/relations/{rel}/",
+        "name": "city",
+        "templated": true
+      },
+      {
+        "href": "https://developers.teleport.org/api/resources/UrbanArea/#!/relations/{rel}/",
+        "name": "ua",
+        "templated": true
+      },
+      {
+        "href": "https://developers.teleport.org/api/resources/Country/#!/relations/{rel}/",
+        "name": "country",
+        "templated": true
+      },
+      {
+        "href": "https://developers.teleport.org/api/resources/Admin1Division/#!/relations/{rel}/",
+        "name": "a1",
+        "templated": true
+      },
+      {
+        "href": "https://developers.teleport.org/api/resources/Timezone/#!/relations/{rel}/",
+        "name": "tz",
+        "templated": true
+      }
+    ],
+    "self": {
+      "href": "https://api.teleport.org/api/cities/?search=&geohash="
+    }
+  },
+  "count": 25
+}
